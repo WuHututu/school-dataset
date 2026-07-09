@@ -20,6 +20,8 @@
 - 仅包含名称，不包含省份、功能区类别、编码等
 - 文件字体是自定义编码，且大部分字体无法映射常用编码，选择通过ocr获取。数据经过 gpt + gemini + kimi 多次交叉验证以及人工逐一核对，但不保证完全正确
 - 省市区镇四级行政区划数据可参考 https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov
+# 483项罪名
+- 没有固定数据来源，网络资源整理而来
 # ONE CUP OF ☕️
 - 如果对你有帮助，请投喂
 <img width="305" height="391" alt="96ba5c76b9f0b27068fccd48d41c52e5" src="https://github.com/user-attachments/assets/2a360e82-6098-4fc9-8951-c3eb5c63d368" />
