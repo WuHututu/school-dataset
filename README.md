@@ -1,4 +1,5 @@
 <h1>仅供个人学习使用，请勿用于商业和非法途径！</h1>
+
 # 高校名单
 - 数据来自于教育部官方名单（未包含港澳台地区高等学校） http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html
 - 数据更新时间：2026.06.20
@@ -28,12 +29,16 @@
 - 数据来源于买购网 https://www.maigoo.com/top/419733.html
 # 成语
 - 数据来源于开源仓库 https://github.com/mapull/chinese-dictionary/tree/main/idiom
-# 未整理
-## 职业名称
+# 职业名称
 - 数据来源于《中华人民共和国国家职业分类大典（2015年版）》 https://www.guang-an.gov.cn/zfxxgk/c104190/pc/content/content_1718390030500962304.html
-## 职称名称
+# 职称名称
 - 数据来源于中华人民共和国人力资源和社会保障部《职称系列（专业）各层级名称》 https://www.mohrss.gov.cn/SYrlzyhshbzb/ztzl/zyhzyzggg/zcwj_zc/zc/202111/t20211102_426565.html
 
+# 未整理
+~~## 职业名称~~
+~~- 数据来源于《中华人民共和国国家职业分类大典（2015年版）》 https://www.guang-an.gov.cn/zfxxgk/c104190/pc/content/content_1718390030500962304.html~~
+~~## 职称名称~~
+~~- 数据来源于中华人民共和国人力资源和社会保障部《职称系列（专业）各层级名称》 https://www.mohrss.gov.cn/SYrlzyhshbzb/ztzl/zyhzyzggg/zcwj_zc/zc/202111/t20211102_426565.html~~
 # ONE CUP OF ☕️
 - 如果对你有帮助，请投喂
 <img width="305" height="391" alt="96ba5c76b9f0b27068fccd48d41c52e5" src="https://github.com/user-attachments/assets/2a360e82-6098-4fc9-8951-c3eb5c63d368" />
